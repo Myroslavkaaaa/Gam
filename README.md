@@ -1,2 +1,2 @@
-# Gam
+# Game
 Final Project
